@@ -50,23 +50,41 @@ int main(){
 //         }
 //         cout<<endl;
 //      } 
-    int a=4;
-    int d=1;
-     for(int i=0;i<5;i++){
+//     int a=4;
+//     int d=1;
+//      for(int i=0;i<5;i++){
         
-        for(int j=0;j<a;j++){
+//         for(int j=0;j<a;j++){
+//             cout<<" ";
+//         }
+//         for(int j=0;j<d;j++){
+//             cout<<"*";
+//         }
+//         for(int j=0;j<a;j++){
+//             cout<<" ";
+//         }
+//         a--;
+//         d=d+2;
+//         cout<<endl;
+         
+//      }
+//      cout<<endl;
+
+     int a=9;
+     int b=0;
+     for(int i=0;i<5;i++){
+        for(int j=0;j<b;j++){
             cout<<" ";
         }
-        for(int j=0;j<d;j++){
+        for(int j=0;j<a;j++){
             cout<<"*";
         }
-        for(int j=0;j<a;j++){
+        for(int j=0;j<b;j++){
             cout<<" ";
         }
-        a--;
-        d=d+2;
         cout<<endl;
-         
+        a=a-2;
+        b++;
      }
 }
 
