@@ -14,4 +14,12 @@ tuf winter arc
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
