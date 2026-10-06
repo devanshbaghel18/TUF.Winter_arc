@@ -6,14 +6,17 @@ tuf winter arc
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -35,4 +38,8 @@ tuf winter arc
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0160-intersection-of-two-linked-lists) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
