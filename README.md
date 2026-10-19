@@ -49,6 +49,7 @@ tuf winter arc
 ## Array
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -58,4 +59,12 @@ tuf winter arc
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
