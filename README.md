@@ -52,6 +52,7 @@ tuf winter arc
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0228-summary-ranges) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
