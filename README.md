@@ -46,6 +46,7 @@ tuf winter arc
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@ tuf winter arc
 | [0011-container-with-most-water](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0228-summary-ranges) |
@@ -85,6 +87,7 @@ tuf winter arc
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0075-sort-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Dynamic Programming
@@ -104,4 +107,12 @@ tuf winter arc
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0189-rotate-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
