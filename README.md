@@ -46,6 +46,7 @@ tuf winter arc
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +59,7 @@ tuf winter arc
 | [0001-two-sum](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0011-container-with-most-water) |
 | [0228-summary-ranges](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0283-move-zeroes) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
