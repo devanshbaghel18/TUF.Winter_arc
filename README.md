@@ -43,15 +43,18 @@ tuf winter arc
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0011-container-with-most-water) |
 | [0228-summary-ranges](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0228-summary-ranges) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2567-minimum-score-by-changing-two-elements) |
