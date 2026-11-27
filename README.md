@@ -47,6 +47,7 @@ tuf winter arc
 | [0011-container-with-most-water](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -62,6 +63,7 @@ tuf winter arc
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0643-maximum-average-subarray-i) |
@@ -98,4 +100,8 @@ tuf winter arc
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
