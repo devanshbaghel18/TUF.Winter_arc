@@ -60,6 +60,7 @@ tuf winter arc
 | [0001-two-sum](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0283-move-zeroes) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -82,4 +83,8 @@ tuf winter arc
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
