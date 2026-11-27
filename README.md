@@ -63,6 +63,7 @@ tuf winter arc
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0643-maximum-average-subarray-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -87,4 +88,8 @@ tuf winter arc
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
