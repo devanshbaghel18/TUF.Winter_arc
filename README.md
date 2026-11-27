@@ -38,6 +38,7 @@ tuf winter arc
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0160-intersection-of-two-linked-lists) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
@@ -54,6 +55,7 @@ tuf winter arc
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0011-container-with-most-water) |
 | [0228-summary-ranges](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0228-summary-ranges) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
