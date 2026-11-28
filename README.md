@@ -40,6 +40,7 @@ tuf winter arc
 | ------- |
 | [0001-two-sum](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0560-subarray-sum-equals-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ tuf winter arc
 | [0189-rotate-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0643-maximum-average-subarray-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -115,4 +117,8 @@ tuf winter arc
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/devanshbaghel18/TUF.Winter_arc/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
